@@ -1,0 +1,6 @@
+.DS_Store
+db/*
+docker-compose.log
+nginx/default.conf
+env_file.env
+.env
